@@ -4,7 +4,7 @@ This repo comtains code originally from blockchain's login page. It was modified
 
 This repo is maintained by Atalia Momsen Beukes
 
-Please fee free to contribute
+Please fee free to contribute please
 
 
 
